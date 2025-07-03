@@ -1,0 +1,5 @@
+# CIFAR 폴더 무시
+CIFAR/
+
+# MNIST 폴더 무시
+MNIST/
