@@ -3,3 +3,6 @@ CIFAR/
 
 # MNIST 폴더 무시
 MNIST/
+
+# dataset 폴더 무시
+dataset/
