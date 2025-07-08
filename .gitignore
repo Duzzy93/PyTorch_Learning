@@ -6,3 +6,5 @@ MNIST/
 
 # dataset 폴더 무시
 dataset/
+
+.gradio/
